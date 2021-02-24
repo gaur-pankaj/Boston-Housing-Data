@@ -1,2 +1,2 @@
 # Boston-Housing-Data
-Predictive price on boston housing data set
+Used supervised machine learning techniques to build regression model on boston housing dataset.
